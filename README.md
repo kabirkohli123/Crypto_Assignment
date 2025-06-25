@@ -62,8 +62,7 @@ This project aims to analyze the relationship between **Bitcoin market sentiment
 
 - `historical_data.csv` — Trader performance data
 - `fear_greed_index.csv` — Market sentiment data
-- `merged_trader_sentiment_data.csv` — Final cleaned dataset
-- `crypto_analysis.ipynb` — Jupyter Notebook with full analysis
+- `crypto_coin.ipynb` — Jupyter Notebook with full analysis
 - `README.md` — Project overview (this file)
 
 ---
